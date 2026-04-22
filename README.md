@@ -1,8 +1,11 @@
 # 🎥 UI/UX Demo Videos
 
+---
+
 ## 🛒 Ecommerce Platform UI
 Designed a clean and intuitive ecommerce interface focusing on smooth product browsing, user-friendly navigation, and a seamless shopping experience.  
 🔗 [Watch Video](./Ecommerce.mp4)
+
 ---
 
 ## 🍔 Food Delivery UI
