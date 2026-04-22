@@ -2,7 +2,7 @@
 
 ## 🛒 Ecommerce Platform UI
 Designed a clean and intuitive ecommerce interface focusing on smooth product browsing, user-friendly navigation, and a seamless shopping experience.  
-🔗 [Watch Video]([https://github.com/your-username/your-repo/blob/main/Ecommerce.mp4](https://github.com/kaviya-krish/UIUX/blob/main/Ecommerce.mp4))
+🔗 [Watch Video]([https://github.com/your-username/your-repo/blob/main/Ecommerce.mp4](https://github.com/kaviya-krish/UIUX/blob/main/Ecommerce.mp4)
 
 ---
 
